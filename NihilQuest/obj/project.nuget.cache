@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MhuxCPiXLNwEU1XAUqz8XBq59Vee2vPy3IkcPVSrkRcJhm+hG6X9Uu/amVKEYk9nIRyZJ2Ch1DccJUbVBTnbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konst\\Desktop\\Stenden\\Year 2\\Period 4\\C# 2\\Nihilquest\\NihilQuest\\NihilQuest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konst\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
